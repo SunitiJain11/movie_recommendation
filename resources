@@ -19,3 +19,6 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.ht
 
 dropna
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
+
+CONTENT-BASED
+https://medium.com/code-heroku/building-a-movie-recommendation-engine-in-python-using-scikit-learn-c7489d7cb145
