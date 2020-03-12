@@ -10,3 +10,8 @@ https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/
 merge
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+
+group_by
+
+pivot_table
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html
