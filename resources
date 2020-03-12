@@ -16,3 +16,6 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.grou
 
 pivot_table
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html
+
+dropna
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
