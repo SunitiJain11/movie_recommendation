@@ -12,6 +12,7 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merg
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
 group_by
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 
 pivot_table
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html
