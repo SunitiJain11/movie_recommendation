@@ -22,3 +22,12 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop
 
 CONTENT-BASED
 https://medium.com/code-heroku/building-a-movie-recommendation-engine-in-python-using-scikit-learn-c7489d7cb145
+
+                                 DATA PRE- PROCESSING
+
+HOW TO GET COLUMN NAMES IN PANDAS
+https://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers
+just list(dataframe_name)[0]
+
+DIFFERENT WAYS TO CREARTE DATA FRAME
+https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/
