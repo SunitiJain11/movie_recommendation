@@ -31,3 +31,4 @@ just list(dataframe_name)[0]
 
 DIFFERENT WAYS TO CREARTE DATA FRAME
 https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/
+https://stackoverflow.com/questions/34682828/extracting-specific-selected-columns-to-new-dataframe-as-a-copy
