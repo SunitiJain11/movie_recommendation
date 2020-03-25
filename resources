@@ -1,26 +1,26 @@
-what is CORRWITH
+                                          what is CORRWITH
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corrwith.html
 
 
-functioning code
+                                        functioning code
 https://analyticsindiamag.com/how-to-build-your-first-recommender-system-using-python-movielens-dataset/
 or
 https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/
 
-merge
+                                          merge
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
-group_by
+                                            group_by
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 
-pivot_table
+                                        pivot_table
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html
 
-dropna
+                                        dropna
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
 
-CONTENT-BASED
+                                  CONTENT-BASED
 https://medium.com/code-heroku/building-a-movie-recommendation-engine-in-python-using-scikit-learn-c7489d7cb145
 
                                  DATA PRE- PROCESSING
@@ -36,3 +36,7 @@ https://stackoverflow.com/questions/34682828/extracting-specific-selected-column
                                  KNN on MOVIE RECOMMENDATION
 https://hendra-herviawan.github.io/Movie-Recommendation-based-on-KNN-K-Nearest-Neighbors.html
 https://stackoverflow.com/questions/18595686/how-does-operator-itemgetter-and-sort-work-in-python/18596183
+
+
+                                  DATA PREPROCESSING TECHNIQUES:
+https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa
